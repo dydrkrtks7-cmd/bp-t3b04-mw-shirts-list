@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://t3b04-mw-shirts-list.pages.dev/sitemap.xml
+Sitemap: https://mangwon-shirt-review.hardcoreroom.com/sitemap.xml
